@@ -1,0 +1,22 @@
+.message-window {
+  /* margin-bo: 2rem; */
+  height: 100vh;
+}
+
+.message-app {
+  height: 100vh;
+}
+
+.chatHeading {
+  width: 100%;
+  padding: 1rem;
+  text-align: center;
+  background-color: #E8E8E8;
+
+}
+
+.chatHeadingText {
+  text-shadow: center;
+  text-justify: center;
+  font-style: bold;
+}
